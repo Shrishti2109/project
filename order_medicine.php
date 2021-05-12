@@ -28,7 +28,7 @@ img
                               <!-- Spacing -->
             </table>
 <h2><center><font color="white">Order Your Medicines</font></center></h2>
-<a href="medicine_order.php">
+<a href="medicine_order.php" target="_blank">
 
 <img src="order_medicine.gif" style="width:180px;height:180px;" class="center">
 </a>
