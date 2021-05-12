@@ -7,7 +7,7 @@
     <title></title>
 
     <!-- Link our CSS file -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -58,7 +58,7 @@
 
             <a href="order_basic.php">
             <div class="box-3 float-container">
-                <img src="ifirst_aid.jpg" class="img-responsive img-curve">
+                <img src="first_aid.jpg" class="img-responsive img-curve">
 
                 <h3 class="float-text text-white">Basic Necessities</h3>
             </div>
